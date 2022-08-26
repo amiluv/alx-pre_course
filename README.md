@@ -1,1 +1,5 @@
-this really took me some time, but am glad i figured it out
+
+ 
+
+This is the correct version of my first readme.
+
