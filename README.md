@@ -1,5 +1,1 @@
-
- 
-
-This is the correct version of my first readme.
-
+My first readme
