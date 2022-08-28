@@ -1,2 +1,1 @@
-My first readme
-Updated as required
+echo 'up_to_date'
